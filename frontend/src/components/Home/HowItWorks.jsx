@@ -38,7 +38,7 @@ const HowItWorks = () => {
             How It Works
           </h2>
           <p className="text-gray-600 mt-3 max-w-2xl mx-auto">
-            Follow these simple steps to apply and manage your microloan بسهولة.
+            Follow these simple steps to apply and manage your microloan.
           </p>
 
           {/* Steps */}
